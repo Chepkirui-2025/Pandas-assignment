@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 
 # Configuration
 CSV_FILENAME = 'bank-additional.csv'  
-SAVE_PLOTS = True  # Set to True to save plots as image files
+SAVE_PLOTS = True  
 
 class DataAnalyzer:
     """
